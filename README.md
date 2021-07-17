@@ -19,7 +19,7 @@ It is powered by [NewsAPI](https://newsapi.org) .
 
 # ScreenShots
 
-![Alt text](ScreenShoots/Home.png)
-![Alt text](ScreenShoots/News.png)
-![Alt text](ScreenShoots/NewsDetails.png)
-![Alt text](ScreenShoots/NewsSource.png)
+![Alt text](ScreenShoots/Home.png?raw=true "Home")
+![Alt text](ScreenShoots/News.png?raw=true "News")
+![Alt text](ScreenShoots/NewsDetails.png?raw=true "News Details")
+![Alt text](ScreenShoots/NewsSource.png?raw=true "News Source")
